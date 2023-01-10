@@ -1,0 +1,10 @@
+C:\Users\pater\OneDrive\Documentos\Migrados\MANUALES\proyecto aqtv.sas\AQTV.SAS\CAD\obj\Debug\CAD.csproj.AssemblyReference.cache
+C:\Users\pater\OneDrive\Documentos\Migrados\MANUALES\proyecto aqtv.sas\AQTV.SAS\CAD\obj\Debug\CAD.csproj.CoreCompileInputs.cache
+C:\Users\pater\OneDrive\Documentos\Migrados\MANUALES\proyecto aqtv.sas\AQTV.SAS\CAD\bin\Debug\CAD.dll.config
+C:\Users\pater\OneDrive\Documentos\Migrados\MANUALES\proyecto aqtv.sas\AQTV.SAS\CAD\bin\Debug\CAD.dll
+C:\Users\pater\OneDrive\Documentos\Migrados\MANUALES\proyecto aqtv.sas\AQTV.SAS\CAD\bin\Debug\CAD.pdb
+C:\Users\pater\OneDrive\Documentos\Migrados\MANUALES\proyecto aqtv.sas\AQTV.SAS\CAD\bin\Debug\BL.dll
+C:\Users\pater\OneDrive\Documentos\Migrados\MANUALES\proyecto aqtv.sas\AQTV.SAS\CAD\bin\Debug\BL.pdb
+C:\Users\pater\OneDrive\Documentos\Migrados\MANUALES\proyecto aqtv.sas\AQTV.SAS\CAD\obj\Debug\CAD.csproj.CopyComplete
+C:\Users\pater\OneDrive\Documentos\Migrados\MANUALES\proyecto aqtv.sas\AQTV.SAS\CAD\obj\Debug\CAD.dll
+C:\Users\pater\OneDrive\Documentos\Migrados\MANUALES\proyecto aqtv.sas\AQTV.SAS\CAD\obj\Debug\CAD.pdb

@@ -1,0 +1,6 @@
+C:\Users\pater\OneDrive\Documentos\Migrados\MANUALES\proyecto aqtv.sas\AQTV.SAS\BL\bin\Debug\BL.dll
+C:\Users\pater\OneDrive\Documentos\Migrados\MANUALES\proyecto aqtv.sas\AQTV.SAS\BL\bin\Debug\BL.pdb
+C:\Users\pater\OneDrive\Documentos\Migrados\MANUALES\proyecto aqtv.sas\AQTV.SAS\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\pater\OneDrive\Documentos\Migrados\MANUALES\proyecto aqtv.sas\AQTV.SAS\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\pater\OneDrive\Documentos\Migrados\MANUALES\proyecto aqtv.sas\AQTV.SAS\BL\obj\Debug\BL.dll
+C:\Users\pater\OneDrive\Documentos\Migrados\MANUALES\proyecto aqtv.sas\AQTV.SAS\BL\obj\Debug\BL.pdb
